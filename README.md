@@ -1,1 +1,1 @@
-# simple responsive website using flexbox
+# Simple responsive website using flexbox for frontendmentor.io
