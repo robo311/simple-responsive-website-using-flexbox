@@ -1,1 +1,1 @@
-# simple-responsive-website-using-flexbox
+# simple responsive website using flexbox
